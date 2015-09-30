@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 附釋文互註禮部韻略
-#+DATE: 2015-09-23 09:41:15
-#+PROPERTY: JUAN 3
+#+DATE: 2015-09-11 23:42:50.072284
+#+PROPERTY: ID KR1j0060
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
+#+PROPERTY: JUAN 4
+#+PROPERTY: FILE SB05n0593-004附釋文互註禮部韻略-卷四.
 <pb:KR1j0060_SBCK_004-1a>¶
 附釋文互註禮部韻略去聲第四¶
 　　　一送(獨用)二宋(與用通)三用¶
@@ -829,4 +833,3 @@
 汜(汜酒釋云濫也又符咸/祥里二切見凡止二韻)䀀(盞䀀杯也又符/咸切見凡字韻)渢(渢渢中庸之聲又符中/符咸二切見東凡二韻)○¶
 附釋文互註禮部韻略去聲第四¶
 <pb:KR1j0060_SBCK_004-43b>¶
-

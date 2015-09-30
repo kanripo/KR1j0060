@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 附釋文互註禮部韻略
-#+DATE: 2015-09-23 09:41:15
-#+PROPERTY: JUAN 2
+#+DATE: 2015-09-11 23:42:50.017212
+#+PROPERTY: ID KR1j0060
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
+#+PROPERTY: JUAN 3
+#+PROPERTY: FILE SB05n0593-003附釋文互註禮部韻略-卷三.
 <pb:KR1j0060_SBCK_003-1a>¶
 　附釋文互註禮部韻略上聲第三¶
 　　　　一董(獨用)二腫(獨用)三講(獨用)¶
@@ -736,4 +740,3 @@
 <pb:KR1j0060_SBCK_003-37a>¶
 ¶
 附釋文互註禮部韻略上聲第三¶
-

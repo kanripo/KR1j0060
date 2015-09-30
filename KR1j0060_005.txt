@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 附釋文互註禮部韻略
-#+DATE: 2015-09-23 09:41:15
-#+PROPERTY: JUAN 4
+#+DATE: 2015-09-11 23:42:50.143755
+#+PROPERTY: ID KR1j0060
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
+#+PROPERTY: JUAN 5
+#+PROPERTY: FILE SB05n0593-005附釋文互註禮部韻略-卷五.
 <pb:KR1j0060_SBCK_005-1a>¶
 附釋文互註禮部韻略入聲第五¶
 　　　一屋(獨用)二沃(與燭通)三燭¶
@@ -616,4 +620,3 @@
 附釋文互註禮部韻略入聲第五¶
 　　紹　㝎　庚　寅　上　巳¶
 　　重刋　于　藏　書　閣¶
-
